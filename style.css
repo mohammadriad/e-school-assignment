@@ -1,0 +1,85 @@
+.container{
+    margin: 5px;
+    width:100%;
+}
+
+.logo-size{
+   width: 50%;
+}
+ 
+ }
+ .carousel-inner{
+     margin: 100px;
+ }
+  
+ .buy-now-button{
+     border-radius: 15px;
+     background-color: green;
+ }
+.color-green{
+     color: green;
+ }
+ .color-black{
+     color: black;
+ }
+span{
+    color: black;
+}
+h6{
+    color: tomato;
+}
+ .card img{
+     width: 100%;
+     
+ }
+ .card{
+     background-color: rgba(230, 233, 225, 0.63);
+     width: 100%;
+     border: 5px 10px gray 10px;
+     border-radius: 5px;
+ }
+ 
+ .book{
+     margin:10px;
+     height:120px;
+     width:600px;
+     padding:20px;
+ }
+ .courses{
+     text-align: center;
+ }
+ .by-courses{
+     border-radius: 20px;
+     background-color: greenyellow;
+     padding: 3px 22px;
+ }
+ .card-footer img{
+     width: 38px;
+ }
+.text-muted{
+    font-size: 19px;
+}
+.btn-outline-success my-2 my-sm-0 by-courses{
+    font-size: 5px;
+}
+.card-footer{
+    background-color: honeydew;
+}
+.testimonial{
+    text-align:center;
+    margin-right: 120px;
+}
+.man-png{
+    width: 50%;
+}
+ #bg-color{
+     background-color:black;
+     color: white;
+     padding-top: 50px;
+     width:100%;
+     height: 280px;
+     margin-top: 50px;
+ }
+ #copy{
+     text-align: center;
+ }
